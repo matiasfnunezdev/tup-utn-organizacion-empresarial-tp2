@@ -1,0 +1,421 @@
+id,producto,cantidad,precio_unitario,fecha_venta
+1,Yerba mate 500g,2,2940,2026-02-01
+2,Café molido 250g,1,3900,2026-02-01
+3,Mermelada frutilla,1,2070,2026-02-02
+4,Yerba mate 500g,5,2640,2026-02-02
+5,Mermelada frutilla,6,1970,2026-02-03
+6,Mermelada frutilla,4,2070,2026-02-03
+7,Yerba mate 500g,2,2940,2026-02-04
+8,Galletitas dulces,2,1160,2026-02-04
+9,Café molido 250g,3,4580,2026-02-04
+10,Yerba mate 500g,1,2570,2026-02-04
+11,Té en saquitos x25,1,1530,2026-02-05
+12,Galletitas dulces,4,1210,2026-02-05
+13,Yerba mate 500g,6,2830,2026-02-05
+14,Mermelada frutilla,3,2260,2026-02-05
+15,Yerba mate 500g,2,2550,2026-02-06
+16,Té en saquitos x25,2,1650,2026-02-06
+17,Yerba mate 500g,4,2730,2026-02-06
+18,Café molido 250g,2,4090,2026-02-07
+19,Té en saquitos x25,6,1560,2026-02-07
+20,Yerba mate 500g,2,2860,2026-02-07
+21,Mermelada frutilla,2,2200,2026-02-07
+22,Galletitas dulces,6,1140,2026-02-08
+23,Mermelada frutilla,3,1980,2026-02-08
+24,Yerba mate 500g,1,2650,2026-02-08
+25,Té en saquitos x25,1,1470,2026-02-08
+26,Café molido 250g,5,4550,2026-02-08
+27,Café molido 250g,4,4330,2026-02-09
+28,Galletitas dulces,2,1110,2026-02-09
+29,Café molido 250g,5,4410,2026-02-09
+30,Té en saquitos x25,4,1570,2026-02-09
+31,Té en saquitos x25,2,1420,2026-02-10
+32,Mermelada frutilla,1,2100,2026-02-10
+33,Yerba mate 500g,2,2610,2026-02-10
+34,Galletitas dulces,4,1220,2026-02-10
+35,Galletitas dulces,4,1220,2026-02-10
+36,Mermelada frutilla,1,2250,2026-02-11
+37,Yerba mate 500g,5,2900,2026-02-11
+38,Té en saquitos x25,3,1580,2026-02-11
+39,Yerba mate 500g,2,2680,2026-02-11
+40,Yerba mate 500g,6,3050,2026-02-12
+41,Té en saquitos x25,2,1640,2026-02-12
+42,Mermelada frutilla,6,2270,2026-02-12
+43,Té en saquitos x25,5,1600,2026-02-12
+44,Mermelada frutilla,3,1970,2026-02-12
+45,Mermelada frutilla,5,2290,2026-02-13
+46,Yerba mate 500g,4,2860,2026-02-13
+47,Yerba mate 500g,3,2580,2026-02-13
+48,Café molido 250g,5,3830,2026-02-14
+49,Yerba mate 500g,4,2570,2026-02-14
+50,Yerba mate 500g,5,3070,2026-02-14
+51,Café molido 250g,4,3890,2026-02-14
+52,Té en saquitos x25,5,1510,2026-02-15
+53,Galletitas dulces,5,1310,2026-02-15
+54,Café molido 250g,4,4380,2026-02-15
+55,Galletitas dulces,4,1300,2026-02-16
+56,Yerba mate 500g,1,2660,2026-02-16
+57,Té en saquitos x25,5,1360,2026-02-16
+58,Café molido 250g,1,4270,2026-02-16
+59,Yerba mate 500g,1,2650,2026-02-17
+60,Té en saquitos x25,2,1370,2026-02-17
+61,Galletitas dulces,2,1130,2026-02-18
+62,Mermelada frutilla,2,2130,2026-02-18
+63,Galletitas dulces,2,1270,2026-02-18
+64,Yerba mate 500g,4,2570,2026-02-18
+65,Galletitas dulces,6,1180,2026-02-19
+66,Yerba mate 500g,6,2900,2026-02-19
+67,Yerba mate 500g,6,2550,2026-02-19
+68,Té en saquitos x25,1,1590,2026-02-19
+69,Café molido 250g,4,3940,2026-02-20
+70,Café molido 250g,3,4130,2026-02-20
+71,Galletitas dulces,1,1140,2026-02-20
+72,Mermelada frutilla,6,1930,2026-02-21
+73,Mermelada frutilla,1,2240,2026-02-21
+74,Café molido 250g,4,3920,2026-02-21
+75,Galletitas dulces,4,1130,2026-02-21
+76,Yerba mate 500g,1,2610,2026-02-21
+77,Té en saquitos x25,4,1630,2026-02-22
+78,Té en saquitos x25,6,1480,2026-02-22
+79,Mermelada frutilla,4,2170,2026-02-22
+80,Café molido 250g,2,3940,2026-02-22
+81,Yerba mate 500g,5,2840,2026-02-22
+82,Té en saquitos x25,5,1370,2026-02-23
+83,Galletitas dulces,5,1200,2026-02-23
+84,Yerba mate 500g,1,3060,2026-02-24
+85,Café molido 250g,1,3840,2026-02-24
+86,Café molido 250g,5,4120,2026-02-24
+87,Mermelada frutilla,5,2140,2026-02-25
+88,Yerba mate 500g,5,2750,2026-02-25
+89,Mermelada frutilla,3,2110,2026-02-25
+90,Té en saquitos x25,4,1420,2026-02-26
+91,Café molido 250g,3,4340,2026-02-26
+92,Galletitas dulces,1,1160,2026-02-26
+93,Galletitas dulces,5,1230,2026-02-27
+94,Yerba mate 500g,2,2560,2026-02-27
+95,Café molido 250g,1,4560,2026-02-28
+96,Café molido 250g,2,4090,2026-02-28
+97,Galletitas dulces,6,1280,2026-02-28
+98,Té en saquitos x25,6,1530,2026-02-28
+99,Mermelada frutilla,6,2020,2026-03-01
+100,Yerba mate 500g,2,3050,2026-03-01
+101,Yerba mate 500g,6,3020,2026-03-02
+102,Mermelada frutilla,3,1960,2026-03-02
+103,Mermelada frutilla,3,1980,2026-03-02
+104,Café molido 250g,3,4360,2026-03-02
+105,Té en saquitos x25,1,1620,2026-03-03
+106,Yerba mate 500g,3,2880,2026-03-03
+107,Yerba mate 500g,2,2520,2026-03-03
+108,Té en saquitos x25,4,1400,2026-03-03
+109,Mermelada frutilla,5,2190,2026-03-03
+110,Yerba mate 500g,6,2560,2026-03-04
+111,Café molido 250g,3,4240,2026-03-04
+112,Galletitas dulces,3,1110,2026-03-05
+113,Té en saquitos x25,1,1620,2026-03-05
+114,Té en saquitos x25,2,1410,2026-03-05
+115,Té en saquitos x25,4,1580,2026-03-06
+116,Mermelada frutilla,2,2200,2026-03-06
+117,Café molido 250g,1,4520,2026-03-07
+118,Café molido 250g,3,4400,2026-03-07
+119,Galletitas dulces,6,1270,2026-03-07
+120,Té en saquitos x25,6,1400,2026-03-08
+121,Yerba mate 500g,1,2730,2026-03-08
+122,Galletitas dulces,4,1130,2026-03-08
+123,Té en saquitos x25,2,1600,2026-03-09
+124,Café molido 250g,2,3800,2026-03-09
+125,Galletitas dulces,1,1160,2026-03-09
+126,Té en saquitos x25,5,1460,2026-03-09
+127,Mermelada frutilla,1,2030,2026-03-10
+128,Yerba mate 500g,3,3010,2026-03-10
+129,Café molido 250g,3,4270,2026-03-10
+130,Yerba mate 500g,4,2580,2026-03-10
+131,Té en saquitos x25,3,1570,2026-03-10
+132,Mermelada frutilla,1,2300,2026-03-11
+133,Galletitas dulces,2,1300,2026-03-11
+134,Té en saquitos x25,4,1360,2026-03-11
+135,Yerba mate 500g,5,2810,2026-03-11
+136,Café molido 250g,1,4090,2026-03-11
+137,Mermelada frutilla,1,2020,2026-03-12
+138,Té en saquitos x25,6,1500,2026-03-12
+139,Galletitas dulces,6,1160,2026-03-12
+140,Té en saquitos x25,2,1520,2026-03-12
+141,Galletitas dulces,2,1240,2026-03-13
+142,Mermelada frutilla,4,2130,2026-03-13
+143,Mermelada frutilla,3,2240,2026-03-13
+144,Té en saquitos x25,5,1410,2026-03-13
+145,Mermelada frutilla,4,2160,2026-03-13
+146,Galletitas dulces,5,1240,2026-03-14
+147,Galletitas dulces,6,1270,2026-03-14
+148,Café molido 250g,3,4330,2026-03-14
+149,Mermelada frutilla,5,2170,2026-03-14
+150,Té en saquitos x25,2,1380,2026-03-14
+151,Café molido 250g,2,4460,2026-03-15
+152,Yerba mate 500g,4,2550,2026-03-15
+153,Mermelada frutilla,1,2250,2026-03-15
+154,Galletitas dulces,6,1180,2026-03-15
+155,Galletitas dulces,2,1200,2026-03-16
+156,Café molido 250g,1,4330,2026-03-16
+157,Yerba mate 500g,2,2960,2026-03-16
+158,Mermelada frutilla,5,2090,2026-03-17
+159,Café molido 250g,1,4550,2026-03-17
+160,Galletitas dulces,4,1110,2026-03-17
+161,Galletitas dulces,6,1230,2026-03-18
+162,Mermelada frutilla,5,2070,2026-03-18
+163,Galletitas dulces,6,1300,2026-03-18
+164,Galletitas dulces,2,1190,2026-03-18
+165,Mermelada frutilla,2,2090,2026-03-19
+166,Té en saquitos x25,6,1480,2026-03-19
+167,Té en saquitos x25,3,1420,2026-03-19
+168,Té en saquitos x25,1,1620,2026-03-19
+169,Café molido 250g,6,3970,2026-03-20
+170,Café molido 250g,1,4370,2026-03-20
+171,Galletitas dulces,5,1180,2026-03-20
+172,Galletitas dulces,4,1090,2026-03-21
+173,Galletitas dulces,5,1300,2026-03-21
+174,Yerba mate 500g,5,3000,2026-03-21
+175,Galletitas dulces,3,1190,2026-03-21
+176,Té en saquitos x25,4,1580,2026-03-21
+177,Galletitas dulces,4,1130,2026-03-22
+178,Galletitas dulces,3,1090,2026-03-22
+179,Galletitas dulces,4,1250,2026-03-22
+180,Mermelada frutilla,4,2110,2026-03-23
+181,Mermelada frutilla,1,2130,2026-03-23
+182,Yerba mate 500g,2,2880,2026-03-23
+183,Café molido 250g,4,3820,2026-03-24
+184,Té en saquitos x25,3,1410,2026-03-24
+185,Té en saquitos x25,4,1580,2026-03-24
+186,Té en saquitos x25,4,1580,2026-03-24
+187,Té en saquitos x25,4,1600,2026-03-24
+188,Mermelada frutilla,3,1910,2026-03-25
+189,Café molido 250g,6,4330,2026-03-25
+190,Yerba mate 500g,2,3050,2026-03-26
+191,Yerba mate 500g,2,2870,2026-03-26
+192,Galletitas dulces,5,1240,2026-03-27
+193,Café molido 250g,3,4170,2026-03-27
+194,Té en saquitos x25,5,1400,2026-03-27
+195,Café molido 250g,1,4590,2026-03-28
+196,Mermelada frutilla,3,1900,2026-03-28
+197,Galletitas dulces,2,1310,2026-03-29
+198,Yerba mate 500g,6,2850,2026-03-29
+199,Café molido 250g,3,3870,2026-03-29
+200,Mermelada frutilla,5,2230,2026-03-29
+201,Yerba mate 500g,4,2710,2026-03-29
+202,Yerba mate 500g,3,2800,2026-03-30
+203,Yerba mate 500g,4,3000,2026-03-30
+204,Yerba mate 500g,3,2760,2026-03-30
+205,Galletitas dulces,4,1250,2026-03-30
+206,Mermelada frutilla,3,2300,2026-03-31
+207,Mermelada frutilla,5,2230,2026-03-31
+208,Galletitas dulces,6,1190,2026-03-31
+209,Té en saquitos x25,1,1610,2026-04-01
+210,Té en saquitos x25,2,1610,2026-04-01
+211,Galletitas dulces,6,1220,2026-04-01
+212,Galletitas dulces,4,1160,2026-04-01
+213,Café molido 250g,3,4190,2026-04-02
+214,Té en saquitos x25,5,1450,2026-04-02
+215,Té en saquitos x25,5,1520,2026-04-02
+216,Café molido 250g,6,3850,2026-04-02
+217,Galletitas dulces,2,1210,2026-04-03
+218,Galletitas dulces,4,1240,2026-04-03
+219,Galletitas dulces,1,1270,2026-04-03
+220,Té en saquitos x25,6,1420,2026-04-03
+221,Café molido 250g,5,4040,2026-04-03
+222,Galletitas dulces,3,1210,2026-04-04
+223,Galletitas dulces,5,1320,2026-04-04
+224,Té en saquitos x25,4,1460,2026-04-04
+225,Té en saquitos x25,2,1440,2026-04-04
+226,Café molido 250g,6,4050,2026-04-05
+227,Mermelada frutilla,6,2290,2026-04-05
+228,Café molido 250g,4,3960,2026-04-06
+229,Té en saquitos x25,5,1570,2026-04-06
+230,Mermelada frutilla,1,2010,2026-04-06
+231,Té en saquitos x25,2,1420,2026-04-07
+232,Té en saquitos x25,5,1350,2026-04-07
+233,Café molido 250g,1,4010,2026-04-07
+234,Café molido 250g,4,4320,2026-04-08
+235,Yerba mate 500g,5,3010,2026-04-08
+236,Té en saquitos x25,4,1490,2026-04-08
+237,Té en saquitos x25,1,1410,2026-04-08
+238,Galletitas dulces,1,1110,2026-04-09
+239,Galletitas dulces,5,1200,2026-04-09
+240,Yerba mate 500g,5,2600,2026-04-09
+241,Té en saquitos x25,2,1380,2026-04-09
+242,Mermelada frutilla,5,2210,2026-04-10
+243,Mermelada frutilla,2,2220,2026-04-10
+244,Galletitas dulces,3,1300,2026-04-11
+245,Mermelada frutilla,3,2310,2026-04-11
+246,Mermelada frutilla,5,2150,2026-04-11
+247,Yerba mate 500g,2,3050,2026-04-11
+248,Café molido 250g,1,4000,2026-04-11
+249,Café molido 250g,1,3930,2026-04-12
+250,Café molido 250g,4,3780,2026-04-12
+251,Mermelada frutilla,1,2090,2026-04-12
+252,Té en saquitos x25,6,1560,2026-04-13
+253,Galletitas dulces,2,1100,2026-04-13
+254,Té en saquitos x25,6,1590,2026-04-13
+255,Galletitas dulces,2,1110,2026-04-14
+256,Café molido 250g,2,4540,2026-04-14
+257,Yerba mate 500g,3,2550,2026-04-14
+258,Galletitas dulces,6,1110,2026-04-15
+259,Té en saquitos x25,3,1560,2026-04-15
+260,Mermelada frutilla,4,2120,2026-04-15
+261,Yerba mate 500g,4,2850,2026-04-15
+262,Mermelada frutilla,1,2000,2026-04-16
+263,Café molido 250g,5,4590,2026-04-16
+264,Mermelada frutilla,6,2290,2026-04-16
+265,Té en saquitos x25,2,1520,2026-04-16
+266,Mermelada frutilla,3,2160,2026-04-17
+267,Café molido 250g,4,4620,2026-04-17
+268,Galletitas dulces,4,1310,2026-04-17
+269,Té en saquitos x25,3,1470,2026-04-17
+270,Yerba mate 500g,3,3000,2026-04-17
+271,Galletitas dulces,4,1150,2026-04-18
+272,Mermelada frutilla,1,1910,2026-04-18
+273,Té en saquitos x25,1,1430,2026-04-18
+274,Galletitas dulces,1,1290,2026-04-18
+275,Mermelada frutilla,1,2080,2026-04-18
+276,Mermelada frutilla,4,2040,2026-04-19
+277,Galletitas dulces,2,1260,2026-04-19
+278,Té en saquitos x25,3,1510,2026-04-19
+279,Galletitas dulces,6,1110,2026-04-20
+280,Mermelada frutilla,6,2230,2026-04-20
+281,Café molido 250g,1,4040,2026-04-20
+282,Mermelada frutilla,2,2060,2026-04-20
+283,Yerba mate 500g,1,2780,2026-04-20
+284,Galletitas dulces,3,1300,2026-04-21
+285,Mermelada frutilla,4,2190,2026-04-21
+286,Galletitas dulces,2,1320,2026-04-21
+287,Mermelada frutilla,2,1950,2026-04-22
+288,Mermelada frutilla,2,2100,2026-04-22
+289,Yerba mate 500g,4,2670,2026-04-22
+290,Té en saquitos x25,5,1630,2026-04-22
+291,Té en saquitos x25,3,1600,2026-04-22
+292,Mermelada frutilla,6,2130,2026-04-23
+293,Galletitas dulces,4,1290,2026-04-23
+294,Mermelada frutilla,3,2090,2026-04-23
+295,Mermelada frutilla,4,2210,2026-04-23
+296,Té en saquitos x25,6,1610,2026-04-24
+297,Café molido 250g,2,4260,2026-04-24
+298,Galletitas dulces,6,1090,2026-04-24
+299,Galletitas dulces,4,1250,2026-04-24
+300,Galletitas dulces,6,1320,2026-04-24
+301,Galletitas dulces,2,1310,2026-04-25
+302,Mermelada frutilla,3,2300,2026-04-25
+303,Yerba mate 500g,4,3010,2026-04-25
+304,Mermelada frutilla,1,2270,2026-04-26
+305,Café molido 250g,6,4120,2026-04-26
+306,Yerba mate 500g,3,2780,2026-04-27
+307,Té en saquitos x25,4,1540,2026-04-27
+308,Yerba mate 500g,6,3000,2026-04-27
+309,Té en saquitos x25,4,1540,2026-04-28
+310,Mermelada frutilla,1,1910,2026-04-28
+311,Café molido 250g,3,4310,2026-04-28
+312,Café molido 250g,4,4410,2026-04-28
+313,Yerba mate 500g,6,2950,2026-04-28
+314,Galletitas dulces,3,1120,2026-04-29
+315,Yerba mate 500g,1,2550,2026-04-29
+316,Té en saquitos x25,2,1460,2026-04-30
+317,Café molido 250g,5,4230,2026-04-30
+318,Café molido 250g,1,3920,2026-04-30
+319,Mermelada frutilla,5,2260,2026-04-30
+320,Galletitas dulces,2,1300,2026-05-01
+321,Café molido 250g,3,4170,2026-05-01
+322,Galletitas dulces,1,1140,2026-05-01
+323,Té en saquitos x25,2,1550,2026-05-02
+324,Yerba mate 500g,3,2770,2026-05-02
+325,Mermelada frutilla,4,2020,2026-05-02
+326,Té en saquitos x25,3,1490,2026-05-02
+327,Café molido 250g,4,4620,2026-05-02
+328,Café molido 250g,3,4100,2026-05-03
+329,Mermelada frutilla,6,2010,2026-05-03
+330,Yerba mate 500g,6,3070,2026-05-04
+331,Galletitas dulces,5,1150,2026-05-04
+332,Yerba mate 500g,6,3030,2026-05-04
+333,Galletitas dulces,3,1280,2026-05-04
+334,Mermelada frutilla,2,2230,2026-05-05
+335,Café molido 250g,6,4300,2026-05-05
+336,Café molido 250g,6,4310,2026-05-05
+337,Té en saquitos x25,1,1590,2026-05-06
+338,Mermelada frutilla,2,2040,2026-05-06
+339,Té en saquitos x25,4,1450,2026-05-07
+340,Café molido 250g,5,3950,2026-05-07
+341,Mermelada frutilla,3,2100,2026-05-08
+342,Café molido 250g,4,4000,2026-05-08
+343,Té en saquitos x25,3,1570,2026-05-08
+344,Yerba mate 500g,1,2780,2026-05-08
+345,Café molido 250g,6,4500,2026-05-09
+346,Galletitas dulces,5,1310,2026-05-09
+347,Té en saquitos x25,4,1380,2026-05-09
+348,Té en saquitos x25,4,1510,2026-05-10
+349,Té en saquitos x25,6,1550,2026-05-10
+350,Mermelada frutilla,6,2050,2026-05-11
+351,Té en saquitos x25,2,1380,2026-05-11
+352,Galletitas dulces,5,1090,2026-05-11
+353,Té en saquitos x25,2,1620,2026-05-11
+354,Galletitas dulces,3,1300,2026-05-12
+355,Galletitas dulces,1,1110,2026-05-12
+356,Té en saquitos x25,1,1650,2026-05-13
+357,Yerba mate 500g,5,2650,2026-05-13
+358,Galletitas dulces,6,1190,2026-05-14
+359,Mermelada frutilla,6,2070,2026-05-14
+360,Café molido 250g,6,4520,2026-05-14
+361,Galletitas dulces,3,1230,2026-05-15
+362,Yerba mate 500g,2,2910,2026-05-15
+363,Galletitas dulces,3,1310,2026-05-16
+364,Yerba mate 500g,3,3070,2026-05-16
+365,Mermelada frutilla,6,2270,2026-05-16
+366,Té en saquitos x25,3,1370,2026-05-16
+367,Café molido 250g,4,4590,2026-05-16
+368,Café molido 250g,5,4320,2026-05-17
+369,Yerba mate 500g,3,2550,2026-05-17
+370,Café molido 250g,2,4440,2026-05-18
+371,Yerba mate 500g,5,2980,2026-05-18
+372,Café molido 250g,2,4270,2026-05-18
+373,Café molido 250g,5,4440,2026-05-19
+374,Yerba mate 500g,2,2680,2026-05-19
+375,Café molido 250g,2,4230,2026-05-19
+376,Yerba mate 500g,1,2890,2026-05-19
+377,Yerba mate 500g,2,2720,2026-05-20
+378,Mermelada frutilla,2,2030,2026-05-20
+379,Té en saquitos x25,6,1370,2026-05-20
+380,Mermelada frutilla,1,1940,2026-05-21
+381,Galletitas dulces,3,1190,2026-05-21
+382,Mermelada frutilla,4,2140,2026-05-21
+383,Mermelada frutilla,5,1980,2026-05-21
+384,Yerba mate 500g,6,2930,2026-05-21
+385,Galletitas dulces,1,1230,2026-05-22
+386,Yerba mate 500g,4,3080,2026-05-22
+387,Galletitas dulces,4,1240,2026-05-22
+388,Galletitas dulces,1,1100,2026-05-22
+389,Mermelada frutilla,2,1950,2026-05-23
+390,Té en saquitos x25,5,1540,2026-05-23
+391,Mermelada frutilla,4,2190,2026-05-23
+392,Mermelada frutilla,4,2110,2026-05-23
+393,Yerba mate 500g,1,2960,2026-05-24
+394,Mermelada frutilla,2,2190,2026-05-24
+395,Galletitas dulces,2,1190,2026-05-24
+396,Galletitas dulces,4,1160,2026-05-24
+397,Galletitas dulces,1,1180,2026-05-24
+398,Galletitas dulces,3,1160,2026-05-25
+399,Té en saquitos x25,6,1640,2026-05-25
+400,Galletitas dulces,1,1100,2026-05-25
+401,Yerba mate 500g,6,2760,2026-05-25
+402,Café molido 250g,5,4250,2026-05-26
+403,Mermelada frutilla,6,2130,2026-05-26
+404,Yerba mate 500g,6,2750,2026-05-26
+405,Galletitas dulces,6,1290,2026-05-26
+406,Té en saquitos x25,3,1530,2026-05-27
+407,Yerba mate 500g,2,2840,2026-05-27
+408,Galletitas dulces,1,1130,2026-05-28
+409,Té en saquitos x25,3,1600,2026-05-28
+410,Yerba mate 500g,5,2950,2026-05-28
+411,Galletitas dulces,5,1280,2026-05-29
+412,Mermelada frutilla,5,2170,2026-05-29
+413,Yerba mate 500g,6,2860,2026-05-29
+414,Yerba mate 500g,6,2620,2026-05-30
+415,Té en saquitos x25,3,1630,2026-05-30
+416,Yerba mate 500g,2,2620,2026-05-30
+417,Mermelada frutilla,1,2170,2026-05-30
+418,Yerba mate 500g,5,2570,2026-05-31
+419,Café molido 250g,4,4100,2026-05-31
+420,Té en saquitos x25,3,1400,2026-05-31
