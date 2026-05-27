@@ -1,0 +1,55 @@
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.virtual_documents
+
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+.env
+.env.local
+
+# --- Credenciales y secretos ---
+# CRÍTICO: nunca commitear el Personal Access Token de GitHub
+*.pem
+*.key
+*.token
+secrets/
+.secrets/
+credentials.json
+.credentials
+
+# --- Datasets pesados ---
+# Los CSV/XLSX chicos de prueba sí se versionan (están en datos/).
+# Acá excluimos descargas grandes que no aportan al análisis.
+datos/raw/
+datos/*.parquet
+datos/*.zip
+datos/*.tar.gz
+*.xlsx~
+
+# --- Resultados temporales (mantener solo los finales) ---
+resultados/tmp/
+resultados/*.bak
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
